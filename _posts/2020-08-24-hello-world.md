@@ -1,5 +1,5 @@
 ---
-title: Hello world! First blog post
+title: "Hello world! First blog post"
 date: 2020-08-23
 ---
 
